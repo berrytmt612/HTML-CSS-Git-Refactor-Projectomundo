@@ -4,8 +4,9 @@
 
 # Summary of Project
 
-This project involved a handful of unlinked or incorrect attributes. Some cleaning up of div soup into semantic elements was also required.
-The CSS had some repetitive classes that could be condensed for easier editing in the future. Overall it covered most of the Module 1 classes.
+The Horiseon webpage is a site for a company that offers search engine optimization, online reputation management and social media marketing.
+The website allows potential customers to get a summary of what the services are and how they would help the customer out. 
+Accesibility is available through multiple image alts, headers, lists, navigation and footer. 
 
 ![Image](./assets/images/screencap.png?raw=true "Screenshot")
 
