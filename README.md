@@ -8,5 +8,5 @@ The Horiseon webpage is a site for a company that offers search engine optimizat
 The website allows potential customers to get a summary of what the services are and how they would help the customer out. 
 Accesibility is available through multiple image alts, headers, lists, navigation and footer. 
 
-![Image](./assets/images/screencap.png?raw=true "Screenshot")
+![Image](./assets/image/screencap.png?raw=true "Screenshot")
 
